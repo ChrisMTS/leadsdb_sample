@@ -1,2 +1,2 @@
 # leadsdb_sample
-Working demo of leadsdb
+Just a small sample of some leadsdb pages
